@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OverlayEx</string>
+    <string name="encryption_message">Encryption message:</string>
+    <string name="decryption_message">decryption message:</string>
+</resources>
